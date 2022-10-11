@@ -62,3 +62,6 @@ flight_alt_time %>% select(year, month, day, dep_time, sched_dep_time, dep_delay
 ```
 
 ![](README_files/figure-gfm/unnamed-chunk-3-1.png)<!-- -->
+![unnamed-chunk-3-1](https://user-images.githubusercontent.com/78119439/194976223-4f2d0b0f-67c3-47e3-859f-7810e9361b5a.png)
+
+
